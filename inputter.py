@@ -1,4 +1,4 @@
-from decomposer import decompose
+from .decomposer import decompose
 
 rule='''
 
